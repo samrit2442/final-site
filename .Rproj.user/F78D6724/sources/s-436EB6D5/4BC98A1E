@@ -1,0 +1,26 @@
+{
+    "id": "4BC98A1E",
+    "path": "~/fin-site/config/_default/params.toml",
+    "project_path": "config/_default/params.toml",
+    "type": "toml",
+    "hash": "1840609124",
+    "contents": "",
+    "dirty": false,
+    "created": 1642343743557.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "16,53",
+        "scrollLine": "3"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1642344849,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1642344849264,
+    "read_only": false,
+    "read_only_alternatives": []
+}
