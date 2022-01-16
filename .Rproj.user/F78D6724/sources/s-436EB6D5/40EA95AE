@@ -3,7 +3,7 @@
     "path": "~/fin-site/config/_default/config.yaml",
     "project_path": "config/_default/config.yaml",
     "type": "yaml",
-    "hash": "2991319293",
+    "hash": "4154324414",
     "contents": "",
     "dirty": false,
     "created": 1642343535891.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "5,17",
+        "cursorPosition": "0,12",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1642343644,
+    "lastKnownWriteTime": 1642357129,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1642343644536,
+    "last_content_update": 1642357129856,
     "read_only": false,
     "read_only_alternatives": []
 }
